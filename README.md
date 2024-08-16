@@ -1,8 +1,8 @@
-# TorqueTrack - Conference Booking Application
+# More Torque (MT) - Conference Booking Application
 
 ## Overview
 
-TorqueTrack is a comprehensive backend system designed to manage vehicles and organizations for a conference booking application. The project involves handling vehicle information, organizational hierarchies, and policy inheritance. It features VIN decoding, rate limiting, caching, and secure API access. This project was developed using Node.js with ExpressJS and MongoDB.
+More Torque (MT) is a comprehensive backend system designed to manage vehicles and organizations for a conference booking application. The project involves handling vehicle information, organizational hierarchies, and policy inheritance. It features VIN decoding, rate limiting, caching, and secure API access. This project was developed using Node.js with ExpressJS and MongoDB.
 
 ## Features
 
