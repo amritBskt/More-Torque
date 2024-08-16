@@ -1,4 +1,4 @@
-# More Torque (MT) - Conference Booking Application
+# TorqueTrack - Conference Booking Application
 
 ## Overview
 
